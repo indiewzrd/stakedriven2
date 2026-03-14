@@ -1,8 +1,9 @@
-# stakedriven2
+License
 
-Repository for StakeDriven v2 resources and development.
+This project is licensed under the Business Source License 1.1 (BSL).
 
-## Contents
+You may view, fork, and modify this code, but you may not operate a
+competing blockchain polling or token-based voting platform using this
+software without permission.
 
-- `LICENSE.md` — project license.
-- `CONTRIBUTING.md` — contribution workflow and expectations.
+See LICENSE.md for details.
