@@ -9,3 +9,5 @@ software without permission.
 See LICENSE.md for details.
 
 Non-audited raw testnet version of the dapp can be found at https://stakedriven.vercel.app/
+
+Contacts: https://x.com/indiewzrd
