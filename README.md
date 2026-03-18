@@ -8,4 +8,4 @@ software without permission.
 
 See LICENSE.md for details.
 
-Non-audited testnet version of the app can be found at https://stakedriven.vercel.app/
+Non-audited raw testnet version of the app can be found at https://stakedriven.vercel.app/
