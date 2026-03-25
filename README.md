@@ -15,6 +15,7 @@ StakeDriven is a community crowdfunding platform for web2/web3 startups. Using w
 Non-audited raw testnet version of the dapp can be found at https://stakedriven.vercel.app/
 
 Deplayed factory contract: https://sepolia.basescan.org/address/0xCd25a2D1D6AF4460b5bCc12Bc1f96C0d07742E45
+
 Deployed poll contract: https://sepolia.basescan.org/address/0x23c036ba5d7b695d30530e0d66448fce6e3b7827
 
 
