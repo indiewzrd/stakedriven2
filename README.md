@@ -12,7 +12,7 @@ See LICENSE.md for details.
 
 StakeDriven is a community crowdfunding platform for web2/web3 startups. Using web3 fundable polls, your users stake on what to build next. At the end of a poll, funds from the winning options are transferred to the poll creator, while funds from non-winning options are returned to the voters. Iterate with each Agile sprint.
 
-Non-audited raw testnet version of the dapp can be found at https://stakedriven.vercel.app/
+Non-audited raw testnet version of the dapp can be found at https://stakedriven.vercel.app or at https://www.stakedriven.com.
 
 Deplayed factory contract: https://sepolia.basescan.org/address/0xCd25a2D1D6AF4460b5bCc12Bc1f96C0d07742E45
 
