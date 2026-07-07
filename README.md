@@ -6,6 +6,8 @@ Deplayed factory contract: https://basescan.org/address/0xbcd77c18d30fed9fde6fcb
 
 Deployed poll contract: https://basescan.org/address/0x43675750dd818eb5aa74fe32de5e8f90e2f07d88#code
 
+AI audit results by onedollaraudit.com: https://bafkreifyvmtdee3r5bikva42vq2ifbg6zeq5j2bbyboxwp3r4cho5tkj64.ipfs.community.bgipfs.com/  
+
 See LICENSE.md for details.
 
 Contacts: https://x.com/indiewzrd
